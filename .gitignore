@@ -1,0 +1,14 @@
+# Ignore the virtual environment binaries and packages
+.venv/
+
+# Ignore Jupyter Notebook cache
+.ipynb_checkpoints/
+
+# Ignore your heavy data file
+*.parquet
+*.csv
+*.xlsx
+
+# Ignore any local configuration/password files you might create later
+.env
+config.py

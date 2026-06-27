@@ -8,6 +8,8 @@
 *.parquet
 *.csv
 *.xlsx
+*.pkl
+*.json
 
 # Ignore any local configuration/password files you might create later
 .env
